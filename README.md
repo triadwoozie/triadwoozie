@@ -1,4 +1,5 @@
-## Hi there 👋
+## hello
+i run windows 10 enterprise ltsc and endeavour on a microsoft surface laptop go with an i5-1035G1 i think
 
 <!--
 **triadwoozie/triadwoozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
